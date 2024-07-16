@@ -2,8 +2,8 @@ from InstaUnfollower import InstagramUnfollower
 
 def main():
 
-    username = "ozanyurtsever95@gmail.com"
-    password = "OZANMOZAN"
+    username = "p.d.491__"
+    password = "Prashant1437@"
 
     unfollower = InstagramUnfollower(username,password, 3) #just increase the number to unfollow slower, and decrease to unfollow faster. ( Making too fast may possible shows you as a bot to Instagram )
     unfollower.login() #logins your account
